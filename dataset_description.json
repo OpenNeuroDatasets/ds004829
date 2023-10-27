@@ -1,1 +1,28 @@
-{"Name":"UGent_2021_RITL_MI_fMRI","BIDSVersion":"1.0.2","DatasetType":"raw","License":"CCBY","Authors":["Ana F. Palenciano","Carlos González-García","Jan de Houwer","Baptist Lieefoghe","Marcel Brass"],"Acknowledgements":"","HowToAcknowledge":"","Founding":["",""],"EthicsApprovals":["",""],"ReferencesAndLinks":["",""],"DatasetDOI":""}
+{
+    "Name": "Concurrent response and action effect representations across the somatomotor cortices during novel task preparation.",
+    "BIDSVersion": "1.0.2",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Ana F. Palenciano",
+        "Carlos González-García",
+        "Jan de Houwer",
+        "Baptist Lieefoghe",
+        "Marcel Brass"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Founding": [
+        "",
+        ""
+    ],
+    "EthicsApprovals": [
+        "",
+        ""
+    ],
+    "ReferencesAndLinks": [
+        "",
+        ""
+    ],
+    "DatasetDOI": ""
+}
