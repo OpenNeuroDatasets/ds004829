@@ -4,7 +4,7 @@ during novel task preparation" by Ana F. Palenciano, Carlos González-García,
 Jan De Houwer, Baptist Lieefoghe and Marcel Brass.
 
 The dataset includes, per participant (N = 30): 
-- A de-faced anatomical T1-weighted scan (/anat).
+- A de-faced anatomical T1-weighted scan (/anat). /n
 - T2* EPI images from 7 functional runs (/func): 4 of them corresponding to 
 the main experimental paradigm and 3 additional localizer runs. TSV event 
 files containing onset and durations of the main events of interest are  
